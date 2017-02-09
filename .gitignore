@@ -3,3 +3,7 @@ build/
 *.iml
 .gradle/
 gradle/
+app/build
+app/app.iml
+app/gradle
+app/.idea
